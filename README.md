@@ -16,15 +16,15 @@ Men’s Fashion Store ini bergerak dalam bisnis toko pakaian yang menjual berbag
 ## Jenis Pengguna (User)
 | Role | Deskripsi | Hak Akses |
 |------|------------|------------|
-| **Admin** | Pengelola utama sistem | CRUD penuh terhadap data produk, supplier, dan transaksi |
-| **Staff Gudang** | Petugas operasional | Create & Read (barang masuk/keluar) |
+| **Admin** | Pengelola utama sistem | Pengelola CRUD terhadap data produk|
+| **Staff Gudang** | Petugas operasional | Create, Read, Update (barang masuk/keluar/Ubah data barang) |
 
 ---
 
 ## Stakeholder Utama
 | Stakeholder | Kepentingan | Peran |
 |--------------|--------------|-------|
-| **Pemilik Toko** | Menginginkan data stok akurat & laporan cepat | Pengambil keputusan |
+| **Pemilik Toko** | Menginginkan data stok akurat & laporan cepat | Pengambil keputusan dalam bisnis |
 | **Staff Gudang** | Mempermudah input data stok masuk/keluar | Operator sistem |
 
 Projek dibuat oleh Alifsya Salam Student-ID(JCDSBDGPM-10-001) untuk memenuhi Tugas Capstone Project Module 1 Purwadhika
