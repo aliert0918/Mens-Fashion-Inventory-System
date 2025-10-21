@@ -1,20 +1,15 @@
-# Men Fashion Inventory CRUD App
+# Mens Fashion Inventory CRUD App
 
-## Deskripsi Proyek
-**Men Fashion Inventory CRUD App** adalah aplikasi berbasis web yang digunakan untuk mengelola data stok dan produk pada toko pakaian pria.  
+## Deskripsi Project
+**Men Fashion Inventory CRUD App** adalah aplikasi CRUD yang digunakan untuk mengelola data stok dan produk pada toko pakaian pria.  
 Aplikasi ini mengimplementasikan operasi **CRUD (Create, Read, Update, Delete)** untuk membantu admin dan staff dalam mencatat serta memantau barang masuk dan keluar secara efisien.
 
-Tujuan utama dari CRUD App ini adalah untuk menjadi solusi dalam pengelolaan stok toko, sehingga dapat membantu input data secara praktis dan mempercepat proses manajemen gudang.
+Tujuan utama dari CRUD App ini untuk menjadi solusi dalam pengelolaan stok toko, sehingga dapat membantu input data secara praktis dan mempercepat proses manajemen gudang.
 
 ---
 
-## Latar Belakang Bisnis
-Dalam bisnis fashion pria, pengelolaan stok yang tidak efisien sering menyebabkan masalah seperti:
-- Barang kehabisan stok tanpa terdeteksi
-- Kesalahan pencatatan manual
-- Kesulitan melacak transaksi masuk/keluar
-
-Dengan aplikasi CRUD ini, setiap perubahan data akan tercatat langsung di database dan dapat diakses secara real-time oleh tim toko.
+## Bisnis Overview
+Men’s Fashion Store ini bergerak dalam bisnis toko pakaian yang menjual berbagai produk fashion untuk pria, mulai dari pakaian kasual seperti kaos, jaket, hoodie maupun formal seperti kemeja dan celana jeans. Bisnis ini berfokus pada penyediaan produk pakaian pria impor maupun ekspor berkualitas tinggi dengan merek dari luar negeri maupun dalam negeri ternama.
 
 ---
 
